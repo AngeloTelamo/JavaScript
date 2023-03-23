@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Faculty
+comment0.text=\r\n\ Is\ a\ subclass\ of\ parent\ class\ which\ is\ CollegeEmployee.\ This\ class\ also\ includes\ Boolean\r\n\ fields\ that\ indicates\ whether\ the\ Faculty\ Member\ is\ tenured\ as\ well\ as\ methods\ that\ override\r\n\ the\ CollegeEmployee\ methods\ to\ accept\ and\ display\ this\ additional\ piece\ of\ informations\r\n\ \r\n\r\n\ \ Angelo\ Nino\ S.\ Telamo\r\n\ IntProg32\ -\ 74668\r\n\ Schedule\:\ Friday\ 1\:30\ -\ 4\:30\ pm\r\n\ Date\:\ 3/23/23\r\n
+comment1.params=Tenured\ firstname\ lastname\ address\ zipcode\ phoneNumber\ sssNumber\ salary\ departmentName
+comment1.target=void\ Faculty(boolean,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ int,\ java.lang.String)
+comment2.params=Tenured
+comment2.target=void\ setTenured(boolean)
+comment2.text=\r\n\ Setters\ and\ Getters\ for\ objects\ of\ class\ Faculty\r\n
+comment3.params=
+comment3.target=boolean\ getTenured()
+numComments=4

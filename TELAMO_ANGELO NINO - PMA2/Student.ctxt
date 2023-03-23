@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Student
+comment0.text=\r\n\ Is\ a\ subclass\ of\ Parent\ class\ which\ is\ Person.\ the\ fields\ contains\ of\ student\ major\ fields\r\n\ of\ study\ and\ grade\ average\ as\ well\ as\ methods\ that\ override\ the\ person\ methods\ to\ accepts\r\n\ and\ display\ these\ aditionnal\ informations\r\n\r\n\ Angelo\ Nino\ S.\ Telamo\r\n\ IntProg32\ -\ 74668\r\n\ Schedule\:\ Friday\ 1\:30\ -\ 4\:30\ pm\r\n\ Date\:\ 3/23/23\r\n
+comment1.params=firstname\ lastname\ address\ zipcode\ phoneNumber\ MajorFields\ grades
+comment1.target=void\ Student(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int,\ java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Student\r\n
+comment2.params=
+comment2.target=Student()
+comment3.params=MajorFields
+comment3.target=void\ setMajorField(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getMajorField()
+comment5.params=grades
+comment5.target=void\ setGrades(int)
+comment6.params=
+comment6.target=int\ getGrade()
+numComments=7

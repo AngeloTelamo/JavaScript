@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=CollegeEmployee
+comment0.text=\r\n\ Is\ a\ subclass\ of\ parent\ class\ which\ is\ Person.\ That\ has\ object\ includes\ Social\ \r\n\ Security\ number,\ annual\ salary,\ and\ the\ department\ name,as\ well\ as\ the\ methods\r\n\ that\ override\ the\ persons\ methods(use\ super())\ to\ accept\ and\ display\ all\ the\r\n\ collegeemployee\ data.\r\n\r\n\ Angelo\ Nino\ S.\ Telamo\r\n\ IntProg32\ -\ 74668\r\n\ Schedule\:\ Friday\ 1\:30\ -\ 4\:30\ pm\r\n\ Date\:\ 3/23/23\r\n
+comment1.params=firstname\ lastname\ address\ zipcode\ phoneNumber\ sssNumber\ salary\ departmentName
+comment1.target=void\ CollegeEmployee(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ int,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ CollegeEmployee\r\n
+comment2.params=
+comment2.target=CollegeEmployee()
+comment3.params=sssNumber
+comment3.target=void\ setSSSNumber(int)
+comment3.text=\r\n\ Setters\ and\ Getters\ for\ objects\ of\ class\ CollegeEmployee\r\n
+comment4.params=
+comment4.target=int\ getSSSNumber()
+comment5.params=salary
+comment5.target=void\ setSalary(int)
+comment6.params=
+comment6.target=int\ getSalary()
+comment7.params=departmentName
+comment7.target=void\ setDepartmentName(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ getDepartmentName()
+numComments=9

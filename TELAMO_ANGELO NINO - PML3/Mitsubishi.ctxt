@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Mitsubishi
+comment0.text=\ \r\n\ Child\ Class<>\r\n\ The\ other\ three\ classes\ mentioned\ above\ are\ sub-classes\ of\ Car.\ \r\n\ These\ classes\ have\ one\ member\ variable\ (age)\ and\ the\ constructor\ \r\n\ for\ each\ will\ call\ the\ parent\ constructor\ for\ object\ instantiation.\r\n\r\n\ Angelo\ Nino\ S.\ Telamo\r\n\ Subject\:\ IntProg32\r\n\ Date\ \:\ 3/22/2023\ \r\n
+comment1.params=name\ cylinders\ age
+comment1.target=Mitsubishi(java.lang.String,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Mitsubishi\r\n
+comment2.params=
+comment2.target=Mitsubishi()
+comment3.params=age
+comment3.target=void\ setAge(int)
+comment3.text=\r\n\ Setters\ and\ getters\ of\ age\ \r\n
+comment4.params=
+comment4.target=int\ getAge()
+comment5.params=
+comment5.target=void\ startEngine()
+comment5.text=\r\n\ methods\ of\ startengine\r\n
+comment6.params=
+comment6.target=void\ accelerated()
+comment6.text=\r\n\ methods\ of\ accelerate\r\n
+comment7.params=
+comment7.target=void\ brake()
+comment7.text=\r\n\ methods\ of\ braking\r\n
+numComments=8
